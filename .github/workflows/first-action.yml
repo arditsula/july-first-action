@@ -30,4 +30,6 @@ jobs:
         run: npm run build
       - name: Deploy cod
         run: echo  "Deeploying..."
+      - name: Trigger next action
+        run: echo "Triggering next action"
         
