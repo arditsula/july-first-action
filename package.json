@@ -1,0 +1,23 @@
+{
+  "name": "july-first-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arditsula/july-first-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arditsula/july-first-action/issues"
+  },
+  "homepage": "https://github.com/arditsula/july-first-action#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
